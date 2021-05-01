@@ -3,7 +3,7 @@
 For this project demographics data for customers of a mail-order sales company in Germany was analysed. The customer demographics data was compared against demographics information for the general population. Unsupervised learning techniques to perform customer segmentation as well as identifying the parts of the population that best describe the core customer base of the company was performed. A model is trained to predict which individuals are most likely to convert into becoming customers for the company. A third dataset with demographics information for targets of a marketing campaign for the company is used as a validation set. The data used has been provided by Bertelsmann Arvato Analytics.
 
 ## Blog post
-A blog post outlining this work is published [here](https://medium.com/p/214ddb46c142).
+A blog post outlining this work is published [here](https://jurgen-strydom.medium.com/customer-segmentation-report-for-arvato-financial-solutions-214ddb46c142).
 
 ## Environment
 This project uses python. The environment is managed using `pipenv`. [This link](https://realpython.com/pipenv-guide/) will help you get started with `pipenv`.
